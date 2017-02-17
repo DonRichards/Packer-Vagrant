@@ -1,0 +1,12 @@
+output-virtualbox-iso/*
+output-vmware-iso/*
+
+packer_cache
+build/*
+*.vdi
+
+*.vmdk
+
+*.ovf
+
+packer
